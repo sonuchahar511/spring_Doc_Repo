@@ -4,7 +4,7 @@
    [java collection best practices] https://www.javaguides.net/2018/06/java-collection-framework-best-practices.html#at_pco=smlwn-1.0&at_si=5d280eaad46d7998&at_ab=per-2&at_pos=0&at_tot=1 <br>
    [spring boot best practices] https://www.javaguides.net/2019/03/spring-boot-best-practices.html
    
-## JAVA BEST PRACTICES:- ##
+## TODO poc:- ##
    [hibernate-spring integration] https://www.baeldung.com/hibernate-4-spring
 
 
