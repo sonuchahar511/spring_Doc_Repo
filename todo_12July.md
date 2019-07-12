@@ -1,4 +1,4 @@
-## Spring Resource Loading:- ##
+## JAVA BEST PRACTICES:- ##
 
    [java best practices] https://www.javaguides.net/search/label/Java%20Best%20Practices <br>
    [java collection best practices] https://www.javaguides.net/2018/06/java-collection-framework-best-practices.html#at_pco=smlwn-1.0&at_si=5d280eaad46d7998&at_ab=per-2&at_pos=0&at_tot=1 <br>
