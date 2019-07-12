@@ -9,7 +9,8 @@
    [hibernate-spring integration] https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
    
 ## Readme doc:- ##
-   https://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/
+   https://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/ <br>
+      https://stackoverflow.com/questions/10117026/convert-iterator-to-arraylist/10975386
 
 
 
