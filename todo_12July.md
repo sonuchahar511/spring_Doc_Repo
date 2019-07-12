@@ -13,8 +13,12 @@
       https://stackoverflow.com/questions/10117026/convert-iterator-to-arraylist/10975386 <br>
       
       https://www.devglan.com/spring-boot/spring-boot-mvc-app-with-jsp
+      
+## SpringBoot-Hibernate:- ##
+  [hibernate-spring-boot-example] https://www.devglan.com/spring-boot/spring-boot-hibernate-5-example<br>
 
-
+   [hibernate-spring-boot-example] https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-jpa-mysql-example/<br>
+   [hibernate-spring-boot-example] https://dzone.com/articles/spring-boot-jpa-mysql-sample-app-code-example
 
 
 
