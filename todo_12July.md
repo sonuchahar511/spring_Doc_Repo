@@ -5,7 +5,8 @@
    [spring boot best practices] https://www.javaguides.net/2019/03/spring-boot-best-practices.html
    
 ## TODO poc:- ##
-   [hibernate-spring integration] https://www.baeldung.com/hibernate-4-spring
+   [hibernate-spring integration] https://www.baeldung.com/hibernate-4-spring <br>
+   [hibernate-spring integration] https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
 
 
 
