@@ -10,7 +10,9 @@
    
 ## Readme doc:- ##
    https://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/ <br>
-      https://stackoverflow.com/questions/10117026/convert-iterator-to-arraylist/10975386
+      https://stackoverflow.com/questions/10117026/convert-iterator-to-arraylist/10975386 <br>
+      
+      https://www.devglan.com/spring-boot/spring-boot-mvc-app-with-jsp
 
 
 
