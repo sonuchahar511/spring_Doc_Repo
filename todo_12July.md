@@ -7,6 +7,9 @@
 ## TODO poc:- ##
    [hibernate-spring integration] https://www.baeldung.com/hibernate-4-spring <br>
    [hibernate-spring integration] https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
+   
+## Readme doc:- ##
+   https://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/
 
 
 
